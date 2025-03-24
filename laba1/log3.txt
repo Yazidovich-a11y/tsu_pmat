@@ -1,0 +1,9 @@
+Input number: 0.875
+Square root: 0.9354143466934853
+could not convert string to float: ''
+Input number: 0.5555555555555556
+Square root: 0.7453559924999299
+Input number: -0.2
+math domain error
+Input number: 0.6666666666666666
+Square root: 0.816496580927726

@@ -1,0 +1,10 @@
+Input number: -7, Random number: -8
+Result: 0.875
+Input number: 6, Random number: 0
+Error: Division by zero!
+Input number: 5, Random number: 9
+Result: 0.5555555555555556
+Input number: -1, Random number: 5
+Result: -0.2
+Input number: -6, Random number: -9
+Result: 0.6666666666666666
